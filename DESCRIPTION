@@ -1,0 +1,13 @@
+Package: montyhall
+Title: The Monty Hall Strategy
+Version: 0.0.0.9000
+Authors@R: 
+    person("Michelle", "Knopp", , "maknopp@asu.com", role = c("aut", "cre"))
+Description: This package helps to determine whether staying with original door choice or switching door choice
+    is a winning strategy when playing the Monty Hall game.
+Depends:
+    dplyr
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
